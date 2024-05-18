@@ -1,6 +1,5 @@
 import quizer as q
 
-#This is a test change for Github push
 def main():
     questions = q.getQueue("file.json")
     tracker = q.Tracker(questions)
