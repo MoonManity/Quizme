@@ -1,13 +1,15 @@
 import quizer as q
 
 def main():
-    questions = q.getQueue("file.json")
-    tracker = q.Tracker(questions)
+    tracker = q.Tracker("file.json")
     while tracker.bank:
-        term = tracker.pickTerm()
-        tracker.output(tracker.currentTerm["question"])
-        tracker.handleAnswerChoices(term)
+        question = tracker.pickQuestion()
+        tracker.handleAnswerChoices(question)
         tracker.handleUserAnswer()
+
+    for i in tracker.topicsLog:
+        for j in tracker.topicsLog[i]["missed_questions"]:
+            print(j)
 
 if __name__ == "__main__":
     main()

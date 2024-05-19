@@ -1,0 +1,58 @@
+[
+  {
+    "question": "What is the primary role of a cybersecurity professional in managing enterprise systems and networks?",
+    "correct_answer": "D",
+    "answers": {
+      "A": "Designing new technologies",
+      "B": "Conducting audits",
+      "C": "Marketing security solutions",
+      "D": "Managing risks"
+    },
+    "topic": "Threats & Vulnerabilities"
+  },
+  {
+    "question": "Which method is NOT a way to manage the risks associated with cybersecurity threats?",
+    "correct_answer": "B",
+    "answers": {
+      "A": "Mitigating",
+      "B": "Igniting",
+      "C": "Transferring",
+      "D": "Avoiding"
+    },
+    "topic": "Threats & Vulnerabilities"
+  },
+  {
+    "question": "What condition must be present along with a threat to pose a risk to IT systems?",
+    "correct_answer": "C",
+    "answers": {
+      "A": "Response plan",
+      "B": "Insurance",
+      "C": "Vulnerability",
+      "D": "Recovery site"
+    },
+    "topic": "Threats & Vulnerabilities"
+  },
+  {
+    "question": "Which type of threat could directly result in the loss of physical equipment?",
+    "correct_answer": "A",
+    "answers": {
+      "A": "Natural Disasters",
+      "B": "Cyber Attacks",
+      "C": "Data Integrity Breaches",
+      "D": "Disclosure of Confidential Information"
+    },
+    "topic": "Threats & Vulnerabilities"
+  },
+  {
+    "question": "What describes a weakness in system design or implementation that could be exploited?",
+    "correct_answer": "C",
+    "answers": {
+      "A": "Threat",
+      "B": "Risk",
+      "C": "Vulnerability",
+      "D": "Attack"
+    },
+    "topic": "Threats & Vulnerabilities"
+  }
+]
+

@@ -1,0 +1,58 @@
+[
+  {
+    "question": "What is the primary purpose of maintaining data integrity?",
+    "correct_answer": "A",
+    "answers": {
+      "A": "To ensure information remains accurate and unchanged unless modified by an authorized individual",
+      "B": "To protect data from physical damage",
+      "C": "To enhance the speed of data retrieval",
+      "D": "To increase data storage capacity"
+    },
+    "topic": "Integrity"
+  },
+  {
+    "question": "Which process is most commonly associated with maintaining the integrity of data in the real world?",
+    "correct_answer": "B",
+    "answers": {
+      "A": "Encryption",
+      "B": "Hashing",
+      "C": "Masking",
+      "D": "Auditing"
+    },
+    "topic": "Integrity"
+  },
+  {
+    "question": "What is the main purpose of a digital signature in the context of data integrity?",
+    "correct_answer": "C",
+    "answers": {
+      "A": "To increase data transfer speed",
+      "B": "To reduce data storage needs",
+      "C": "To ensure integrity and authenticity",
+      "D": "To monitor data usage"
+    },
+    "topic": "Integrity"
+  },
+  {
+    "question": "What does a checksum help verify?",
+    "correct_answer": "D",
+    "answers": {
+      "A": "The physical security of data",
+      "B": "The capacity of data storage",
+      "C": "The speed of data processing",
+      "D": "The integrity of data during transmission"
+    },
+    "topic": "Integrity"
+  },
+  {
+    "question": "Which of the following is a key reason for conducting regular audits?",
+    "correct_answer": "B",
+    "answers": {
+      "A": "To train new employees on data handling",
+      "B": "To ensure that only authorized changes have been made",
+      "C": "To enhance organizational transparency",
+      "D": "To comply with data deletion policies"
+    },
+    "topic": "Integrity"
+  }
+]
+

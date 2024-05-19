@@ -1,0 +1,58 @@
+[
+  {
+    "question": "What is the primary goal of confidentiality in cybersecurity?",
+    "correct_answer": "A",
+    "answers": {
+      "A": "To protect information from unauthorized access and disclosure",
+      "B": "To ensure software is free of bugs",
+      "C": "To enhance network speed and efficiency",
+      "D": "To promote the use of open-source software"
+    },
+    "topic": "Confidentiality"
+  },
+  {
+    "question": "Which of the following best describes the role of encryption in confidentiality?",
+    "correct_answer": "C",
+    "answers": {
+      "A": "To speed up data transfer",
+      "B": "To reduce data storage needs",
+      "C": "To convert data into a code to prevent unauthorized access",
+      "D": "To monitor data usage"
+    },
+    "topic": "Confidentiality"
+  },
+  {
+    "question": "What is a key reason to maintain confidentiality in a business environment?",
+    "correct_answer": "B",
+    "answers": {
+      "A": "To improve employee morale",
+      "B": "To maintain a business advantage",
+      "C": "To simplify IT operations",
+      "D": "To reduce operational costs"
+    },
+    "topic": "Confidentiality"
+  },
+  {
+    "question": "Which method is used to ensure only authorized personnel can access specific types of data?",
+    "correct_answer": "D",
+    "answers": {
+      "A": "Data Masking",
+      "B": "Encryption",
+      "C": "Training and Awareness",
+      "D": "Access Controls"
+    },
+    "topic": "Confidentiality"
+  },
+  {
+    "question": "What does data masking primarily aim to achieve?",
+    "correct_answer": "A",
+    "answers": {
+      "A": "To obscure data to make it inaccessible to unauthorized users while retaining its authenticity for authorized users",
+      "B": "To completely remove data from the database",
+      "C": "To increase database performance",
+      "D": "To encrypt entire databases"
+    },
+    "topic": "Confidentiality"
+  }
+]
+
